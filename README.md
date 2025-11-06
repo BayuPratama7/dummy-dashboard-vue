@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 SUMU Learning Management System Dashboard
 
 > **Sistem Dashboard LMS Modern berbasis Vue.js 3 dengan fitur lengkap untuk manajemen pembelajaran online**
@@ -683,4 +684,4 @@ Jika ada pertanyaan atau issue, silakan buat issue baru di repository ini.
 
 ---
 
-**Dibuat dengan ❤️ menggunakan Vue.js 3 & TailwindCSS**
+**Built with ❤️ using Vue.js 3, TailwindCSS, and modern web technologies**
